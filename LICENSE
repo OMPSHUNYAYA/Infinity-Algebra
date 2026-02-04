@@ -1,0 +1,143 @@
+Creative Commons Attribution 4.0 International — SIA
+
+Shunyaya Infinity Algebra (SIA)
+
+This work is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You Are Free To
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+
+Use — for commercial or non-commercial purposes
+
+These freedoms are irrevocable, provided the license terms are followed.
+
+No registration required.
+No fees required.
+No additional legal or technical restrictions may be applied.
+
+Attribution
+
+You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Minimum required attribution:
+
+Shunyaya Infinity Algebra (SIA)
+
+Attribution must:
+
+acknowledge the source
+
+indicate if changes were made
+
+not imply endorsement by:
+
+the authors
+
+the Shunyaya framework
+
+Shunyaya Infinity Algebra (SIA)
+
+Use of this work does not grant authority, certification, or official status.
+
+Research and Usage Notice
+
+Shunyaya Infinity Algebra (SIA) is a foundational, deterministic, structure-based algebra that governs admissibility of operations involving infinity, without modifying:
+
+finite arithmetic
+
+limits
+
+asymptotics
+
+or classical mathematical results
+
+SIA evaluates structural admissibility, not numeric value.
+
+It refuses unjustified operations explicitly, rather than fabricating meaning through approximation or closure.
+
+SIA is intended for:
+
+foundational mathematical research
+
+symbolic reasoning and representation studies
+
+formal verification and proof integrity research
+
+refusal-aware computation
+
+academic and educational use
+
+SIA is not:
+
+a computer algebra system (CAS)
+
+a limit or asymptotics engine
+
+a numerical approximation method
+
+a symbolic simplifier or optimizer
+
+a semantic inference engine
+
+a decision-making or control system
+
+All classical mathematics remains valid and unchanged.
+SIA acts prior to approximation, not in place of it.
+
+Integrity and Verification
+
+Mathematical integrity in SIA is enforced by:
+
+explicit structural admissibility rules
+
+dominant refusal semantics (ABSTAIN)
+
+determinism and reproducibility
+
+auditability and finality discipline
+
+Integrity is structural and verifiable, not dependent on licensing restrictions.
+
+Independent implementations may exist.
+Only structurally correct executions preserve SIA invariants.
+
+Relationship to Other Licenses
+
+This license applies to:
+
+the SIA specification
+
+documentation
+
+conceptual and explanatory materials
+
+Executable implementations, verification tools, certification artifacts, and derived systems may be released under CC BY 4.0 or Open Standards, provided such licensing is explicitly stated.
+
+No implicit relicensing is granted.
+
+Responsibility
+
+Any use of SIA in automated reasoning, governance, safety-critical, or decision-making contexts is undertaken entirely at the user’s own responsibility.
+
+SIA provides admissibility discipline, not authority or guarantees.
+
+No Warranty
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+merchantability
+
+fitness for a particular purpose
+
+non-infringement
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+License Reference
+
+Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
